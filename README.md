@@ -1,2 +1,2 @@
 # Web-Hostal-disgen
-useing only Html and css
+using only Html and css
